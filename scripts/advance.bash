@@ -11,7 +11,7 @@ env -i "${_git_env[@]}" "${_git_bin}" \
 | while read path name sha1 ; do
 	path="$( readlink -e "${name}" )"
 	name="$( basename "${name}" )"
-	orig_path="$( readlink -e ../mosaic-repositories )/${name}"
+	orig_path="$( readlink -e ../.mosaic-repositories )/${name}"
 	if test "${orig_path}" == "${path}" ; then
 		continue
 	fi
