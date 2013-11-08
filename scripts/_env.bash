@@ -9,7 +9,7 @@ _repositories="${_workbench}/repositories"
 _scripts="${_workbench}/.scripts"
 _tools="${_workbench}/.tools"
 
-_PATH="${_tools}/bin:${_PATH}"
+_PATH="${_tools}/bin:${PATH}"
 
 _git_bin="$( PATH="${_PATH}" type -P -- git || true )"
 if test -z "${_git_bin}" ; then
