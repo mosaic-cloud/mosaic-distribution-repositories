@@ -130,3 +130,15 @@
 [submodule "repositories/volution-go-libraries"]
 	path = repositories/volution-go-libraries
 	url = git://github.com/cipriancraciun/volution-go-libraries.git
+[submodule "repositories/mosaic-credentials-service"]
+	path = repositories/mosaic-credentials-service
+	url = git://github.com/cipriancraciun/mosaic-credentials-service.git
+[submodule "repositories/mosaic-me2-platform-containers"]
+	path = repositories/mosaic-me2-platform-containers
+	url = git://github.com/cipriancraciun/mosaic-me2-platform-containers.git
+[submodule "repositories/mosaic-mos-platform-packages"]
+	path = repositories/mosaic-mos-platform-packages
+	url = git://github.com/cipriancraciun/mosaic-mos-platform-packages.git
+[submodule "repositories/mosaic-templates-java-cloudlet"]
+	path = repositories/mosaic-templates-java-cloudlet
+	url = git://github.com/cipriancraciun/mosaic-templates-java-cloudlet
