@@ -142,3 +142,6 @@
 [submodule "repositories/mosaic-templates-java-cloudlet"]
 	path = repositories/mosaic-templates-java-cloudlet
 	url = git://github.com/cipriancraciun/mosaic-templates-java-cloudlet
+[submodule "repositories/mosaic-node-boot"]
+	path = repositories/mosaic-node-boot
+	url = git://github.com/cipriancraciun/mosaic-node-boot.git
