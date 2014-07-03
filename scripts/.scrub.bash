@@ -5,12 +5,12 @@ if ! test "${#}" -eq 0 ; then
 	exit 1
 fi
 
-echo "[ii] resetting repositories..." >&2
+echo "[ii] resetting submodules..." >&2
 env -i "${_git_env[@]}" "${_git_bin}" \
 		submodule foreach --quiet --recursive \
 			"${_git_bin} reset -q --hard HEAD"
 
-echo "[ii] cleaning repositories..." >&2
+echo "[ii] cleaning submodules..." >&2
 env -i "${_git_env[@]}" "${_git_bin}" \
 		submodule foreach --quiet --recursive \
 			"${_git_bin} clean -q -f -d -x"
