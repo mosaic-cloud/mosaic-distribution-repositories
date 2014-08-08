@@ -136,6 +136,9 @@
 [submodule "repositories/mosaic-me2-platform-containers"]
 	path = repositories/mosaic-me2-platform-containers
 	url = git://github.com/cipriancraciun/mosaic-me2-platform-containers.git
+[submodule "repositories/mosaic-mos-package-builder"]
+	path = repositories/mosaic-mos-package-builder
+	url = git://github.com/cipriancraciun/mosaic-mos-package-builder.git
 [submodule "repositories/mosaic-mos-platform-packages"]
 	path = repositories/mosaic-mos-platform-packages
 	url = git://github.com/cipriancraciun/mosaic-mos-platform-packages.git
