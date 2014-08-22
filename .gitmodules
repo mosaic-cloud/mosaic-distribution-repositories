@@ -148,3 +148,12 @@
 [submodule "repositories/mosaic-node-boot"]
 	path = repositories/mosaic-node-boot
 	url = git://github.com/cipriancraciun/mosaic-node-boot.git
+[submodule "repositories/cowboy"]
+	path = repositories/cowboy
+	url = git://github.com/ninenines/cowboy
+[submodule "repositories/cowlib"]
+	path = repositories/cowlib
+	url = git://github.com/ninenines/cowlib
+[submodule "repositories/ranch"]
+	path = repositories/ranch
+	url = git://github.com/ninenines/ranch
