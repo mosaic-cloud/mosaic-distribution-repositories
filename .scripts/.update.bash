@@ -6,11 +6,11 @@ if ! test "${#}" -eq 0 ; then
 fi
 
 echo "[ii] initializing submodules..." >&2
-env -i "${_git_env}" "${_git_bin}" \
+env -i "${_git_env[@]}" "${_git_bin}" \
 		submodule init --quiet
 
 echo "[ii] updating submodules..." >&2
-env -i "${_git_env}" "${_git_bin}" \
+env -i "${_git_env[@]}" "${_git_bin}" \
 		submodule update --quiet --recursive --init --force
 
 exit 0
