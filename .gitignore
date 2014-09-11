@@ -4,5 +4,7 @@
 !/.scripts
 !/.scripts/**
 
+!/repositories/.mosaic-repositories
+
 *#
 *~
