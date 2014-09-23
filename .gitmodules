@@ -154,3 +154,6 @@
 [submodule "repositories/ranch"]
 	path = repositories/ranch
 	url = https://github.com/ninenines/ranch
+[submodule "repositories/volution-erlang-libraries"]
+	path = repositories/volution-erlang-libraries
+	url = https://github.com/cipriancraciun/volution-erlang-libraries.git
