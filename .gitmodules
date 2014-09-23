@@ -142,9 +142,6 @@
 [submodule "repositories/mosaic-mos-platform-packages"]
 	path = repositories/mosaic-mos-platform-packages
 	url = ../mosaic-mos-platform-packages.git
-[submodule "repositories/mosaic-templates-java-cloudlet"]
-	path = repositories/mosaic-templates-java-cloudlet
-	url = ../mosaic-templates-java-cloudlet
 [submodule "repositories/mosaic-node-boot"]
 	path = repositories/mosaic-node-boot
 	url = ../mosaic-node-boot.git
