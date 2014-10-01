@@ -157,3 +157,6 @@
 [submodule "repositories/volution-erlang-libraries"]
 	path = repositories/volution-erlang-libraries
 	url = https://github.com/cipriancraciun/volution-erlang-libraries.git
+[submodule "repositories/mosaic-object-store"]
+	path = repositories/mosaic-object-store
+	url = ../mosaic-object-store.git
