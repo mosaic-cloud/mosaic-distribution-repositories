@@ -75,7 +75,7 @@
 	url = https://github.com/basho/skerl.git
 [submodule "repositories/volution-build-system"]
 	path = repositories/volution-build-system
-	url = https://github.com/cipriancraciun/volution-build-system.git
+	url = https://github.com/volution-ro/volution-build-system.git
 [submodule "repositories/webmachine"]
 	path = repositories/webmachine
 	url = https://github.com/cipriancraciun/webmachine.git
@@ -129,7 +129,7 @@
 	url = ../mosaic-components-me2cp.git
 [submodule "repositories/volution-go-libraries"]
 	path = repositories/volution-go-libraries
-	url = https://github.com/cipriancraciun/volution-go-libraries.git
+	url = https://github.com/volution-ro/volution-go-libraries.git
 [submodule "repositories/mosaic-credentials-service"]
 	path = repositories/mosaic-credentials-service
 	url = ../mosaic-credentials-service.git
@@ -156,7 +156,7 @@
 	url = https://github.com/ninenines/ranch
 [submodule "repositories/volution-erlang-libraries"]
 	path = repositories/volution-erlang-libraries
-	url = https://github.com/cipriancraciun/volution-erlang-libraries.git
+	url = https://github.com/volution-ro/volution-erlang-libraries.git
 [submodule "repositories/mosaic-object-store"]
 	path = repositories/mosaic-object-store
 	url = ../mosaic-object-store.git
